@@ -10,6 +10,5 @@ export class AppComponent {
 
   constructor() {
     console.log(this.title);
-    console.log(true);
   }
 }
